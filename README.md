@@ -41,10 +41,14 @@ Note: messages are not chronologically sorted.
 4. Performance 
 ---------------
 * Cofusion Matrix:
+
     ![Confusion Matrix](images/Confusion.PNG)
+    
 
 * Accuracy, F1, Precision and Recall Scores:
+
     ![Performance](images/Performance.PNG)
+    
 
 
 
